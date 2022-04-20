@@ -18,10 +18,11 @@
   },
   "homepage": "https://github.com/Leonardo-Barbosa-Silva/API-REST-NODE-MONGO#readme",
   "dependencies": {
+    "dotenv": "16.0.0",
     "express": "4.17.3",
     "mongoose": "6.3.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "2.0.15"
   }
 }
